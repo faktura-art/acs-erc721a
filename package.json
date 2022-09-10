@@ -1,7 +1,7 @@
 {
-  "name": "@faktura-art/acs-erc721a-upgradeable",
-  "version": "4.2.2",
-  "description": "Faktura ERC721A Upgradeable contract for Solidity",
+  "name": "@proak-us/acs-erc721a-upgradeable",
+  "version": "4.2.3",
+  "description": "ProAK ERC721A Upgradeable contract for Solidity",
   "files": [
     "/contracts/**/*.sol",
     "/build/contracts/*.json",
@@ -36,12 +36,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faktura-art/acs-erc721a-upgradeable.git"
+    "url": "git+https://github.com/proak-us/acs-erc721a-upgradeable.git"
   },
-  "author": "Faktura",
+  "author": "ProAK",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/faktura-art/acs-erc721a-upgradeable/issues"
+    "url": "https://github.com/proak-us/acs-erc721a-upgradeable/issues"
   },
-  "homepage": "https://github.com/faktura-art/acs-erc721a-upgradeable#readme"
+  "homepage": "https://github.com/proak-us/acs-erc721a-upgradeable#readme"
 }

@@ -13,7 +13,7 @@ jobs:
           registry-url: https://npm.pkg.github.com/
           username: ${{github.actor}}
           password: ${{secrets.NPM_TOKEN}}
-          scope: "@faktura-art"
+          scope: "@proak-us"
       - name: Install dependencies
         run: npm install
         env:
